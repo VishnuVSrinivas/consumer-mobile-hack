@@ -1,0 +1,25 @@
+{
+  "name": "consumer-mobile-hack",
+  "version": "1.0.0",
+  "description": "Consumer Mobile Hackathon (YC) — Sun Nov 15, 2026. A consumer mobile app people open every day, built with Capy, Revyl and Convex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "convex dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishnuVSrinivas/consumer-mobile-hack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VishnuVSrinivas/consumer-mobile-hack/issues"
+  },
+  "homepage": "https://github.com/VishnuVSrinivas/consumer-mobile-hack#readme",
+  "dependencies": {
+    "convex": "^1.50.0"
+  }
+}
